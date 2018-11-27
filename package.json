@@ -1,0 +1,19 @@
+{
+  "name": "rxdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "version": "tsc -v",
+    "build": "tsc",
+    "start": "node ./dist/data.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}

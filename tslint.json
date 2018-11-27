@@ -1,0 +1,7 @@
+{
+  "extends": "gts/tslint.json",
+  "rules": {
+    "no-unused-expression": false,
+    "no-unused-expression-chai": false
+  }
+}
