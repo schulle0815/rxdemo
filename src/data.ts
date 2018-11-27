@@ -1,5 +1,4 @@
 import {interval, Observable, of} from 'rxjs';
-import {toPromise} from 'rxjs/operator/toPromise';
 import {filter, flatMap, map, merge, switchMap, take, tap, zip} from 'rxjs/operators';
 
 console.log('test');
